@@ -1,6 +1,6 @@
 {
     "name": "kinfer",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "Kindle assistant commander, transform azw3 or epub to compressed mobi.",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
