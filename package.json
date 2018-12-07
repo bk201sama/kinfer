@@ -1,0 +1,18 @@
+{
+    "name": "kinfer",
+    "version": "0.1.0",
+    "description": "Kindle assistant commander, transform azw3 or epub to compressed mobi.",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "jerry",
+    "license": "MIT",
+    "main": "bin/main.js",
+    "bin": {
+        "kinfer": "bin/main.bat"
+    },
+    "dependencies": {
+        "chalk": "^2.4.1",
+        "commander": "^2.19.0"
+    }
+}
