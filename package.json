@@ -2,6 +2,10 @@
     "name": "kinfer",
     "version": "0.1.1",
     "description": "Kindle assistant commander, transform azw3 or epub to compressed mobi.",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/alex1504/kinfer"
+    },
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
